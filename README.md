@@ -7,6 +7,9 @@
 - Read file contents using the `open()` and `read()` system calls, processing data in chunks.
 - Practice robust file descriptor management and error handling.
 - Understand how user-level programs interact with the kernel for basic file I/O.
+# Lab 01
+Edited by Javonda Walker 
+This is my first lab submission for CUS1163
 
 #### Prerequisites
 
